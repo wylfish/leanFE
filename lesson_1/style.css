@@ -1,3 +1,56 @@
-h1{
-  color: red;
-}
+  .container{
+    width: 1180px;
+    margin:40px auto 0px;
+    overflow: auto;
+  }
+  .group{
+    width: 380px;
+    box-sizing: border-box;
+    float: left;
+    margin:0px 0px 20px 10px;
+    text-align: center;
+  }
+  .group img{
+    width: 100%;
+    margin-bottom: 20px
+  }
+  .group p{
+
+    text-align: left;
+    margin:30px;
+  }
+  .headpic{
+    margin:30px auto 0px ;
+    text-align: center;
+  }
+  .intro{
+    margin:40px auto 0px;
+    text-align: center;
+  }
+  .tcwhite{
+    color: #ffffff;
+    position: relative;
+  }
+  .tcblack{
+    color: #000;
+  }
+  .headborder01 h2{
+    text-align: center;
+    margin: 0px 8px;
+  }
+  .headborder01{
+    width:auto;
+    display:inline-block;
+    border: 
+    height:33px;
+    z-index: 999;
+    background: #9fc5e8;
+  }
+  .line{
+    border-top: 3px solid white;
+    height:3px;
+    position: absolute;
+    top: 18px;
+    width: 80%;
+    left: 10%;
+  }
