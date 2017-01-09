@@ -42,8 +42,10 @@
     width:auto;
     display:inline-block;
     height:33px;
-    z-index: 999;
+    z-index: 1;
     background: #9fc5e8;
+    position:relative;
+
   }
   .line{
     border-top: 3px solid white;
