@@ -1,0 +1,11 @@
+div{
+  width: 510px;
+  height: 510px;
+  margin: 50px auto 0px;
+  text-align: center;
+  border: 2px solid #ccc;
+  box-shadow: 2px 2px 5px 4px #ccc;
+}
+img{
+  margin-top: 40px;
+}
